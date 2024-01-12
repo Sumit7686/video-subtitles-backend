@@ -1,0 +1,7 @@
+import {v2 as cloudinary} from 'cloudinary';
+          
+cloudinary.config({ 
+  cloud_name: 'dayamd18p', 
+  api_key: '889854141416391', 
+  api_secret: 'BoIOFbQkewqlOYNnRdhCmJkqCuQ' 
+});
